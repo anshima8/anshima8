@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=anshima8)
-### Hey there !👋...I'm Anshima singh Pal a Data Analyst.
+### Hey there !👋...I'm Anshima singh Pal a .
 
 - 🔭 I’m currently working Customer Analysis using Tableau.
 - 🌱 I’m currently learning JavaScript and React..

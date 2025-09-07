@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=anshima8)
-### Hey there !👋...I'm Anshima singh Pal a .
+### Hey there !👋...I'm Anshima singh Pal  .
 
 - 🔭 I’m currently working as Software Engineering specialist at Dassault Systemes.
 - 🌱 I’m currently learning AWS, Machine Learning.

@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=anshima8)
 ### Hey there !👋...I'm Anshima singh Pal a .
 
-- 🔭 I’m currently working Customer Analysis using Tableau.
-- 🌱 I’m currently learning JavaScript and React..
-- 💬 Ask me about React and Data structures algorithm...
+- 🔭 I’m currently working as Software Engineering specialist at Dassault Systemes.
+- 🌱 I’m currently learning AWS, Machine Learning.
+- 💬 Ask me about .Net, C#, AI Integration and Data structures algorithm...
 
 ### Computer languages:
 <p>
